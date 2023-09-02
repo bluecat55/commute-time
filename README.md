@@ -3,10 +3,12 @@
 
 A simple productivity tool that shows you the commute time
 
-Wanted to know the time to go to/return from office at the run of a simple command? Follow these simple steps
+Wanted to know the time to go to/return from office at the run of a simple command? Follow the simple steps mentioned below
 
 ## Prerequisites
 Need a Google maps key with directions enabled
+
+## Steps
 
  1. Clone the repo
  2. Rename .env.example to .env and enter your home address, office address and google maps API key
